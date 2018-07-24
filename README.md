@@ -1,7 +1,7 @@
 # TrimFieldTransformationKafka
 Java class to perform Kafka Connect transformation. This class implements a Trim function over fields on Key or value
 
-##USAGE
+## USAGE
 1. Generate JAR package, put it in Kafka Connect classpath and restart Kafka Connect service.
 2. Configure your connector json file properties adding the following lines:
 **To edit the message Value:**
