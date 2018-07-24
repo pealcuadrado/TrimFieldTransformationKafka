@@ -1,4 +1,4 @@
-package org.everis.kafka.connect.transforms;
+package org.pealcuadrado.kafka.connect.transforms;
 
 import org.apache.kafka.common.config.ConfigDef;
 import org.apache.kafka.connect.connector.ConnectRecord;
